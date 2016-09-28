@@ -1,0 +1,92 @@
+body {
+	background-image: url(../images/new_year_background.png);
+}
+
+header {
+	overflow: auto;
+	background-color: #ffffff;
+    border-bottom: 10px;
+    border-color: #dddddd;
+    width: 100%;
+}
+
+#inner-header {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.main-content {
+	width: 960px;
+	margin: 20px auto;
+}
+
+.logo {
+	float: left;
+	z-index: 5;
+	background-color: #4aaaa5;
+	font-family: Georgia;
+	font-size: 30px;
+	color: white;
+	font-weight: bolder;
+	text-align: center;
+	padding: 30px;
+}
+
+.navigation {
+	float: right;
+}
+
+.contactLink {
+	display: inline-block;	
+}
+
+.portfolioLink {
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.aboutLink {
+	display: inline-block;
+}
+
+
+.about-wrapper {
+	clear: both;
+	display: inline-block;
+	float: left;
+	background-color: #ffffff;
+	width: 590px;
+	padding: 30px;
+}
+
+.connect-wrapper {
+	display: inline-block;
+	float: left;
+	background-color: #ffffff;
+	margin-left: 40px;
+	width: 270px;
+	height: auto;
+}
+
+img#myface {
+	width: 250px;
+	height: auto;
+	float: left;
+}
+
+.links {
+	display: inline-block;
+	height: 70px;
+	width: 70px;
+}
+
+.links img {
+	width: 100%;
+}
+.social-row {
+	text-align: center;
+}
+.footer {
+	clear: both;
+
+}
